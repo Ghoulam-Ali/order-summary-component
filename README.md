@@ -12,8 +12,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://www.frontendmentor.io/solutions/nft-preview-card-component-kUOCJ7PzC1](https://www.frontendmentor.io/solutions/nft-preview-card-component-kUOCJ7PzC1)
-- Live Site URL: [https://rak-preview-card-component.netlify.app/](https://rak-preview-card-component.netlify.app/)
+- Solution URL: [https://www.frontendmentor.io/solutions/ordersummarycomponent-kFFct8stJS](https://www.frontendmentor.io/solutions/ordersummarycomponent-kFFct8stJS)
+- Live Site URL: [https://rakcoder-order-summary-component.netlify.app/](https://rakcoder-order-summary-component.netlify.app/)
 
 
 ### Built with
